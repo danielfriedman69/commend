@@ -1,0 +1,31 @@
+{
+  "name": "csgo-commend-bot",
+  "version": "2.10.0",
+  "description": "CSGO Commend Bot Rewrite",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "github.com/BeepIsla",
+  "license": "AGPL-3.0",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/BeepIsla/csgo-commend-bot.git"
+  },
+  "dependencies": {
+    "@doctormckay/stdlib": "^1.10.2",
+    "bytebuffer": "^5.0.1",
+    "inquirer": "^6.3.1",
+    "protobufjs": "^6.9.0",
+    "request": "^2.88.2",
+    "serialize-error": "^4.1.0",
+    "sqlite": "^4.0.11",
+    "sqlite3": "^4.2.0",
+    "steam-totp": "^2.1.0",
+    "steam-user": "^4.16.2",
+    "steamid": "^1.1.0",
+    "unquirer": "^1.0.0",
+    "unzipper": "^0.10.11"
+  }
+}
